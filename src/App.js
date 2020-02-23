@@ -1,4 +1,5 @@
 import React from "react";
+import Weather from "./weather";
 import "./App.css";
 
 function App() {
@@ -6,6 +7,7 @@ function App() {
     <div className="App">
       <div class="container">
         <h1>Weather App </h1>
+        <Weather />
         <footer>
           Open source code
           <a
