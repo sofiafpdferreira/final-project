@@ -37,8 +37,8 @@
   margin-left: 0px;
 }
 
-.Weather img {
+.Weather canvas {
   float: left;
   margin-right: 10px;
-  width: 65px;
+  margin-top: 15px;
 }
