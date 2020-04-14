@@ -19,7 +19,7 @@ function App() {
           by
           <a href="https://pt.linkedin.com/in/sofia-franco-ferreira-17822b170">
             {" "}
-            Sofia F. Ferreira
+            Sofia Franco Ferreira
           </a>
         </footer>
       </div>
